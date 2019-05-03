@@ -1,0 +1,1 @@
+This library is originaly created by _michap_ and available in http://forum.zwave.me/viewtopic.php?f=3427&t=29894&p=79060&hilit=oled&sid=ce60c04138f25ac63cc88ef07b259a47#p79060. Slightly modified to prevent screen blinks.
